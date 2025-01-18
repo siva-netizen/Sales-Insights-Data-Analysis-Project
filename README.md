@@ -74,6 +74,13 @@ This project provides actionable insights into sales performance by analyzing an
 - Cross-comparison of customer, product, and regional performance.
 - Forecasting for strategic decision-making.
 
+## Acknowledgments
+
+This project was made possible thanks to the guidance and tutorials provided by [Codebasics](https://www.youtube.com/@codebasics). Their Power BI lessons were instrumental in developing this dashboard.
+
 ## Conclusion
 
 This Sales Insights project leverages the capabilities of Power BI to transform raw data into meaningful business insights. By addressing sales trends, profitability, and forecasting, the project equips stakeholders with the tools to identify opportunities, mitigate risks, and drive growth.
+
+
+
